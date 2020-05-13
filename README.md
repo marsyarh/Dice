@@ -1,1 +1,1 @@
-# dice.github.io
+# dice
